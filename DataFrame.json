@@ -1,0 +1,23 @@
+{
+    "date": "2019-11-07",
+    "minute": "09:31",
+    "label": "09:31 AM",
+    "high": 192.355,
+    "low": 192.18,
+    "average": 192.254,
+    "volume": 459,
+    "notional": 88244.36,
+    "numberOfTrades": 5,
+    "marketHigh": 192.39,
+    "marketLow": 192.12,
+    "marketAverage": 192.252,
+    "marketVolume": 45068,
+    "marketNotional": 8664427.4036,
+    "marketNumberOfTrades": 162,
+    "open": 192.19,
+    "close": 192.355,
+    "marketOpen": 192.365,
+    "marketClose": 192.28,
+    "changeOverTime": -0.000415943098984124,
+    "marketChangeOverTime": 0.0012238499716171675
+}

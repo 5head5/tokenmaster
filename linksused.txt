@@ -1,0 +1,7 @@
+Exchange API:
+    https://github.com/binance/binance-connector-node
+
+
+
+IEX Cloud => aapl:
+    https://cloud.iexapis.com/stable/stock/aapl/quote?token=pk_b7906a6544734340a70eecbec862ebcd

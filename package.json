@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "@binance/connector": "^1.7.0",
+    "dotenv": "^14.3.2"
+  },
+  "name": "tokenmaster",
+  "description": "Tool for Market Analysis:",
+  "version": "1.0.0",
+  "main": "core.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/5head5/tokenmaster.git"
+  },
+  "keywords": [],
+  "author": "Leon Selz, Fabian-Ivo Horvatic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/5head5/tokenmaster/issues"
+  },
+  "homepage": "https://github.com/5head5/tokenmaster#readme"
+}
